@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="ParkingPalsServer">
+    <output-path>$PROJECT_DIR$/out/artifacts/ParkingPalsServer</output-path>
+    <root id="root">
+      <element id="javaee-facet-resources" facet="ParkingPalsServer/web/Web" />
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="ParkingPalsServer" />
+        </element>
+        <element id="directory" name="lib" />
+      </element>
+    </root>
+  </artifact>
+</component>
